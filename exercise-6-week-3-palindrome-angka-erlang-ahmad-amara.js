@@ -1,7 +1,5 @@
 function angkaPalindrome(angka){
     var hasil = 0;
-
-    //for (j = 1; j <= 10; j++){
     
     var num = angka + 1;
     do{
